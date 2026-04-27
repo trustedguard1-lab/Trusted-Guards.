@@ -1,0 +1,305 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About Us",
+    "services": "Services",
+    "contact": "Contact"
+  },
+  "hero": {
+    "badge": "Institutional security solutions with a trusted identity",
+    "title": "We protect critical sites with confidence.",
+    "subtitle": "From command rooms to field teams, we combine real capabilities and real technology to deliver practical protection.",
+    "description": "Practical security solutions for sensitive facilities and operations.",
+    "cta": "Schedule Your Security Assessment",
+    "cta1": "Get Started Now",
+    "cta2": "Learn More",
+    "scroll": "Discover our solutions",
+    "stat1_value": "500+",
+    "stat1_label": "Protected Assets",
+    "stat2_value": "1000+",
+    "stat2_label": "Enterprise Clients",
+    "stat3_value": "15+",
+    "stat3_label": "Years of Excellence"
+  },
+  "about": {
+    "title": "Why Trusted Guards Leads the Industry",
+    "description": "For over 15 years, we've been the trusted security choice of major enterprises, financial institutions, and critical infrastructure providers. Our integrated approach combines advanced technology with real field expertise and 24/7 operations to create comprehensive security solutions.",
+    "mission": "Our Mission: Deliver integrated security solutions that protect your most valuable assets and enable your team to focus on business growth and development.",
+    "vision": "Our Vision: To be the leading and most trusted security partner in the region, setting standards for protection, innovation, and customer success."
+  },
+  "services": {
+    "title": "Comprehensive Security Solutions Built for Every Threat",
+    "cctv": "AI-Powered Surveillance Systems",
+    "access": "Intelligent Access Control Networks",
+    "alarm": "Real-Time Threat Detection & Response",
+    "patrol": "Elite Mobile Security Units",
+    "commercial": "Enterprise Security Operations",
+    "security": "Strategic Security Advisory"
+  },
+  "contact": {
+    "title": "Contact Us",
+    "email": "Email: sam@trusted-guards.com",
+    "phone": "Phone: +27 21 500 4000",
+    "address": "Address: 21-27 Third Avenue, Kensington, Cape Town, South Africa",
+    "message": "Message",
+    "send": "Send Message",
+    "sendingMessage": "Sending...",
+    "successMessage": "Your message has been sent successfully. We will get back to you soon."
+  },
+  "footer": {
+    "rights": "All Rights Reserved ©",
+    "year": "2024",
+    "company": "Trusted Guards Security Solutions",
+    "quickLinks": "Quick Links",
+    "contactInfo": "Contact Information",
+    "followUs": "Follow Us",
+    "tagline": "Enterprise Security Excellence",
+    "description": "Global leader in intelligent security solutions. Protecting critical infrastructure and enterprises worldwide with next-generation technology and uncompromising service.",
+    "faq": "FAQ",
+    "contact": "Contact",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "support": "Support"
+  },
+  "stats": {
+    "clients": "Enterprise Clients Served",
+    "experience": "Years of Industry Excellence",
+    "team": "Certified Security Professionals"
+  },
+  "testimonials": {
+    "title": "Client Reviews",
+    "viewAll": "View All Reviews"
+  },
+  "news": {
+    "title": "Latest News",
+    "readMore": "Read More"
+  },
+  "certificates": {
+    "title": "Certifications & Awards"
+  },
+  "serviceDetails": {
+    "technology": {
+      "title": "Technology & Smart Systems",
+      "description": "Advanced technological solutions and smart AI-powered systems",
+      "longDescription": "We provide cutting-edge technological solutions combining the latest intelligent surveillance systems and advanced software to ensure comprehensive 24/7 protection.",
+      "features": [
+        "AI-Powered Intelligent Surveillance Systems",
+        "Face Recognition and Instant Threat Detection",
+        "Automated Data Analysis and Reporting",
+        "Instant Alert System with Real-Time Notifications"
+      ],
+      "benefits": [
+        "Reduce operational costs by 40%",
+        "Instant response to security incidents",
+        "Precise monitoring around the clock",
+        "Easy management from a single dashboard"
+      ]
+    },
+    "fire-rescue": {
+      "title": "Fire Fighting & Rescue Services",
+      "description": "Professional rescue teams equipped with cutting-edge equipment",
+      "longDescription": "A specialized team of rescue professionals trained to the highest international standards, equipped with the latest firefighting and rescue equipment.",
+      "features": [
+        "Internationally Trained & Certified Rescue Teams",
+        "Modern and Efficient Firefighting Equipment",
+        "Rescue Vehicles with Latest Technologies",
+        "Rapid Response within Minutes"
+      ],
+      "benefits": [
+        "Reduce response times by 70%",
+        "Save lives and property",
+        "Continuous team training",
+        "Complete 24/7 coverage"
+      ]
+    },
+    "facilities": {
+      "title": "Facilities Management & Maintenance",
+      "description": "Integrated facility and infrastructure management",
+      "longDescription": "Comprehensive facility management services including regular maintenance, emergency response, and cleaning with continuous monitoring.",
+      "features": [
+        "Regular Scheduled Maintenance Programs",
+        "Facility and Infrastructure Management",
+        "Cleaning and General Sanitation Services",
+        "Emergency and Immediate Maintenance Services"
+      ],
+      "benefits": [
+        "Reduce maintenance costs by 35%",
+        "Improve work environment quality",
+        "Free up internal resources",
+        "Ensure business continuity"
+      ]
+    },
+    "marine": {
+      "title": "Marine & Coastal Protection",
+      "description": "Advanced maritime and coastal security services",
+      "longDescription": "Comprehensive coastal and territorial water protection with specialized trained teams for maritime operations.",
+      "features": [
+        "Armed Modern Naval Patrols",
+        "Advanced Coastal Surveillance Systems",
+        "State-of-the-Art Rescue Boats",
+        "Port and Sea Control"
+      ],
+      "benefits": [
+        "Comprehensive coastal and port protection",
+        "Prevent smuggling and illegal activities",
+        "Quick response to maritime incidents",
+        "High-level team training"
+      ]
+    },
+    "vip-protection": {
+      "title": "VIP & Family Protection",
+      "description": "Luxury and discreet personal protection services",
+      "longDescription": "Premium protection services for prominent individuals and families with complete confidentiality and discretion.",
+      "features": [
+        "Specialized Personal Protection Teams",
+        "Risk and Threat Assessment",
+        "Secure and Protected Transportation",
+        "Precise Monitoring and Integrated Protection"
+      ],
+      "benefits": [
+        "Complete protection with total confidentiality",
+        "Peace of mind and personal security",
+        "Trained and professional team",
+        "Customized and effective protection plans"
+      ]
+    },
+    "events": {
+      "title": "Event & Conference Security",
+      "description": "Comprehensive security for events and conferences",
+      "longDescription": "Complete security services for large events, parties, and conferences with crowd management and area protection.",
+      "features": [
+        "Efficient and Professional Crowd Management",
+        "Card Systems and Identity Verification",
+        "Trained and Disciplined Security Teams",
+        "Comprehensive Event Monitoring"
+      ],
+      "benefits": [
+        "Participant safety and security",
+        "Successful crowd management",
+        "Protection from security incidents",
+        "Save time and resources"
+      ]
+    },
+    "command-center": {
+      "title": "Command & Control Center",
+      "description": "Modern control room with smart surveillance systems",
+      "longDescription": "An advanced command center equipped with the latest technologies for managing and monitoring all security operations with high efficiency.",
+      "features": [
+        "Modern Centralized Control Room",
+        "Advanced Communication Systems",
+        "Integrated Monitoring of All Systems",
+        "Instant Reports and Accurate Analysis"
+      ],
+      "benefits": [
+        "Effective coordination of all operations",
+        "Instant response to incidents",
+        "Unified centralized management",
+        "Comprehensive documentation of all operations"
+      ]
+    }
+  },
+  "recruitment": {
+    "title": "Careers at Trusted Guards",
+    "subtitle": "Join a Team That Makes a Difference",
+    "description": "We are always looking for talented and ambitious individuals to join our growing team. If you are passionate about security and want to be part of a leading organization, explore our current opportunities.",
+    "whyJoinUs": "Why Join Us?",
+    "benefits": {
+      "growth": {
+        "title": "Career Growth",
+        "description": "We offer clear career advancement paths and continuous professional development programs."
+      },
+      "training": {
+        "title": "World-Class Training",
+        "description": "Access to internationally certified training programs and the latest security methodologies."
+      },
+      "compensation": {
+        "title": "Competitive Compensation",
+        "description": "Attractive salary packages with comprehensive benefits including health insurance and bonuses."
+      },
+      "environment": {
+        "title": "Professional Environment",
+        "description": "Work in a supportive, team-oriented environment with state-of-the-art facilities."
+      }
+    },
+    "openPositions": "Open Positions",
+    "noPositions": "No open positions at the moment. Please check back later.",
+    "positions": {
+      "security_officer": {
+        "title": "Security Officer",
+        "location": "Cape Town, South Africa",
+        "type": "Full-Time",
+        "description": "We are seeking experienced security officers to join our team and ensure the safety of our clients' facilities.",
+        "requirements": [
+          "Minimum 2 years of security experience",
+          "Valid security license",
+          "Physical fitness certification",
+          "Excellent communication skills"
+        ]
+      },
+      "control_room_operator": {
+        "title": "Control Room Operator",
+        "location": "Johannesburg, South Africa",
+        "type": "Full-Time",
+        "description": "Monitor and manage security operations from our state-of-the-art command center.",
+        "requirements": [
+          "Experience with CCTV and surveillance systems",
+          "Strong attention to detail",
+          "Ability to work in shifts",
+          "Technical knowledge of security systems"
+        ]
+      },
+      "security_consultant": {
+        "title": "Security Consultant",
+        "location": "Remote / On-site",
+        "type": "Full-Time",
+        "description": "Provide expert security assessments and recommendations to enterprise clients.",
+        "requirements": [
+          "5+ years in security consulting",
+          "Relevant certifications (CPP, PSP)",
+          "Strong analytical and reporting skills",
+          "Client relationship management experience"
+        ]
+      },
+      "fire_safety_specialist": {
+        "title": "Fire Safety Specialist",
+        "location": "Durban, South Africa",
+        "type": "Full-Time",
+        "description": "Lead fire safety operations and ensure compliance with national and international standards.",
+        "requirements": [
+          "Fire safety certification",
+          "3+ years in fire safety operations",
+          "Knowledge of NFPA standards",
+          "Emergency response training"
+        ]
+      }
+    },
+    "applyNow": "Apply Now",
+    "applicationForm": {
+      "title": "Job Application",
+      "subtitle": "Fill in your details and we will get back to you",
+      "fullName": "Full Name",
+      "email": "Email Address",
+      "phone": "Phone Number",
+      "position": "Position Applied For",
+      "selectPosition": "Select a position",
+      "experience": "Years of Experience",
+      "resume": "Upload Resume (PDF)",
+      "coverLetter": "Cover Letter / Message",
+      "coverLetterPlaceholder": "Tell us about yourself and why you want to join Trusted Guards...",
+      "submit": "Submit Application",
+      "submitting": "Submitting...",
+      "successMessage": "Your application has been submitted successfully! We will review it and contact you soon.",
+      "requiredField": "This field is required"
+    },
+    "stats": {
+      "employees": "1000+",
+      "employeesLabel": "Team Members",
+      "countries": "5+",
+      "countriesLabel": "Countries",
+      "training": "200+",
+      "trainingLabel": "Training Hours/Year",
+      "satisfaction": "95%",
+      "satisfactionLabel": "Employee Satisfaction"
+    }
+  }
+}

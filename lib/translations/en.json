@@ -1,0 +1,99 @@
+{
+  "header": {
+    "home": "Home",
+    "about": "About Us",
+    "services": "Services",
+    "csr": "Social Responsibility",
+    "contact": "Contact Us"
+  },
+  "hero": {
+    "badge": "Trusted Security Solutions",
+    "title": "Protecting what matters most.",
+    "description": "Integrated security for sites, assets, and people.",
+    "cta": "Request Consultation",
+    "cta2": "Explore Services",
+    "stat1_value": "500+",
+    "stat1_label": "Trusted Clients",
+    "stat2_value": "4",
+    "stat2_label": "Integrated Security Pillars",
+    "stat3_value": "15+",
+    "stat3_label": "Years of Experience",
+    "scroll": "Scroll Down"
+  },
+  "about": {
+    "title": "About Us",
+    "description": "Trusted Guards specializes in integrating advanced technology with traditional security systems to provide comprehensive and integrated security solutions. We focus on four key security pillars: physical, cyber, personal, and organizational security. With a specialized team trained at the highest international standards, we work continuously to provide our clients with a secure and reliable environment.",
+    "mission_title": "Our Mission",
+    "mission_description": "To provide integrated and advanced security solutions across four key pillars (physical, cyber, personal, organizational) that combine latest technologies with real field expertise to protect our clients' assets, property, and lives with the highest level of professionalism.",
+    "vision_title": "Our Vision",
+    "vision_description": "To be the leading and most trusted security company in the region, known for our advanced integration of technology and traditional systems, and our ability to provide comprehensive and reliable security solutions that meet evolving market demands.",
+    "why_choose": "Why Choose Trusted Guards?",
+    "highlights": [
+      "Unique integration of advanced technology with traditional security systems",
+      "Comprehensive coverage across four integrated security pillars",
+      "Specialized team trained at the highest international standards",
+      "Customized solutions tailored to each client's specific needs",
+      "Accumulated experience of over 15 years in the security field",
+      "24/24 monitoring with immediate and effective response to any emergency"
+    ]
+  },
+  "services": {
+    "title": "Our Four Integrated Security Pillars",
+    "subtitle": "We provide comprehensive security solutions that combine advanced technologies with traditional systems across four key pillars to ensure complete and integrated protection for our clients across all sectors and industries",
+    "service1_title": "Physical Security",
+    "service1_desc": "CCTV surveillance systems, access control and exit systems, and fire and theft alarm systems with latest technologies",
+    "service2_title": "Cyber Security",
+    "service2_desc": "Protection from electronic threats, secure data backups, and analysis of suspicious and abnormal behaviors",
+    "service3_title": "Personal Security",
+    "service3_desc": "Identity verification solutions, personal alarm systems for emergencies, and safety applications on smart devices",
+    "service4_title": "Organizational Security",
+    "service4_desc": "Privacy policy development, employee security training programs, and risk management with compliance to security standards",
+    "service5_title": "Specialized Security Consultations",
+    "service5_desc": "Comprehensive risk assessment and development of customized protection strategies for each client",
+    "service6_title": "24/24 Central Monitoring Center",
+    "service6_desc": "Continuous and complete monitoring around the clock with immediate and effective response to any security incident",
+    "view_all": "View All Services"
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About Us",
+    "services": "Services",
+    "consultations": "Consultations",
+    "csr": "Social Responsibility",
+    "contact": "Contact Us"
+  },
+  "stats": {
+    "clients": "Satisfied Clients",
+    "experience": "Years of Experience",
+    "uptime": "24/24 Uptime"
+  },
+  "testimonials": {
+    "title": "What Our Clients Say"
+  },
+  "news": {
+    "title": "Latest News"
+  },
+  "certificates": {
+    "title": "Certifications & Awards"
+  },
+  "contact": {
+    "email": "Email",
+    "phone": "Phone",
+    "address": "Address"
+  },
+  "footer": {
+    "company": "Company",
+    "support": "Support",
+    "contact": "Contact Us",
+    "faq": "FAQ",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Use",
+    "tagline": "Comprehensive Security Solutions",
+    "description": "We specialize in providing advanced and reliable security solutions that protect your life and property with complete professionalism.",
+    "copyright": "All Rights Reserved © {{year}} Trusted Guards",
+    "address": "21-27 Third Avenue, Kensington, Cape Town, 7405, South Africa",
+    "quickLinks": "Quick Links",
+    "contactInfo": "Contact Information",
+    "rights": "All Rights Reserved"
+  }
+}
